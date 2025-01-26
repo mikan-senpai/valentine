@@ -12,7 +12,7 @@ https://gist.github.com/tnarla/0c09a11fea366145ba684fe6ebf578c5 & https://www.ti
 # How to start
 ```
 npm install -g pnpm
-pnpm i
+pnpm ipnpm i
 pnpm run dev
 ```
 
@@ -27,3 +27,4 @@ pnpm run deploy
 ```
 
 Made with ❤️ in Berlin!
+# valentine
