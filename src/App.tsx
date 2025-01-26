@@ -22,12 +22,32 @@ export default function Page() {
       "But :*(",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to nathan's ghost",
+      "ok ur talking to mikan's ghost",
       "please babe",
       ":((((",
       "PRETTY PLEASE",
       "Estoy muerto",
       "No :(",
+      "Don't be mean",
+      "I'll give you a cookie",
+      "What about two cookies?",
+      "Three cookies, final offer",
+      "You're breaking my heart </3",
+      "I'm running out of phrases",
+      "Please reconsider 🥺",
+      "I'll do your laundry",
+      "And wash the dishes",
+      "I'll be your best friend",
+      "Pretty pretty please with sugar on top",
+      "I'm not crying, you're crying",
+      "Time to bring out the puppy eyes 🐶",
+      "*Plays sad violin music*",
+      "Is that your final answer?",
+      "But we'd be so cute together!",
+      "Error 404: Acceptance not found",
+      "Loading more pleading phrases...",
+      "My heart.exe has stopped working",
+      "No :( 💔",
     ];
 
     return phrases[Math.min(noCount, phrases.length - 1)];
@@ -38,7 +58,7 @@ export default function Page() {
       {yesPressed ? (
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-          <div className="my-4 text-4xl font-bold">WOOOOOO!!! I love you pookie!! ;))</div>
+          <div className="my-4 text-4xl font-bold">WOOOOOO!!! I love you soo much pooookiiee!! ;)) ❤️</div>
         </>
       ) : (
         <>
